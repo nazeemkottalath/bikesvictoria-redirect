@@ -1,0 +1,19 @@
+{
+  "name": "bikesvictoria-redirect",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "301 redirect from bikesvictoria.com to ruhza.com",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^4.0.0"
+  },
+  "devDependencies": {
+    "@astro/check": "^0.3.0",
+    "typescript": "^5.0.0"
+  }
+}
